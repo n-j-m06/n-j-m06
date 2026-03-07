@@ -1,7 +1,7 @@
 # Hi, I'm Niru! 👋 🌏
 
 ### I'm a Computer Science & AI Student
-> Full-stack enthusiast building intelligent systems and scalable architectures. 🚀 ✨
+>I debug reality and call it engineering ✨
 
 ---
 
