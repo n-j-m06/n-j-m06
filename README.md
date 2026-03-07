@@ -33,4 +33,4 @@
 
 ---
 
-*"Turning code into impactful solutions."* 🚀
+*"One optimized protocol at a time."* 🚀
