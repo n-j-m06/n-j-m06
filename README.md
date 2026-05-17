@@ -75,14 +75,12 @@
 
 <p align="center">
   <img
+    src="https://github-readme-stats.vercel.app/api?username=n-j-m06&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=n-j-m06&show_icons=true&theme=default&hide_border=true&rank_icon=github"
-    alt="Niranjan's GitHub Stats"
   />
   <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-j-m06&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-j-m06&layout=compact&theme=default&hide_border=true"
-    alt="Top Languages"
   />
 </p>
 ---
