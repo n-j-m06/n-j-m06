@@ -1,9 +1,20 @@
+<!-- ========================================= -->
+<!--           ANIMATED CODER HERO             -->
+<!-- ========================================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5A0,25:00D9F5,50:7F5AF0,75:FF4ECD,100:FF6B6B&height=280&section=header&text=Niranjan%20J%20Menon&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Computer%20Science%20%26%20AI%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20" />
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="320"
+    alt="Animated coder working on a laptop"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F5A0&center=true&vCenter=true&multiline=false&width=950&height=60&lines=Hi%2C+I%27m+Niru+%F0%9F%91%8B;I+debug+reality+and+call+it+engineering+%E2%9C%A8;Flutter+%7C+FastAPI+%7C+Python+%7C+Machine+Learning;Building+technology+that+creates+real-world+impact." />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2200&pause=700&color=00F5A0&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Niru+%F0%9F%91%8B;Computer+Science+%26+AI+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;I+debug+reality+and+call+it+engineering+%E2%9C%A8"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
@@ -17,8 +28,8 @@
 # 💫 Hi, I'm Niru!
 
 🎓 Computer Science & Engineering (AI & ML) student at VIT  
-🚀 Passionate about building intelligent, production-grade software with real-world impact  
-📱 Full-stack developer specializing in Flutter, FastAPI, Python, and Machine Learning  
+🚀 Building intelligent, production-grade software with real-world impact  
+📱 Full-Stack Developer | 🤖 ML Enthusiast | 🔬 Research-Oriented Problem Solver
 
 > *"I debug reality and call it engineering ✨"*
 
@@ -67,10 +78,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-j-m06&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n-j-m06&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🤝 Connect With Me
@@ -90,7 +97,7 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <i>"First, solve the problem. Then, write the code that makes it look easy." 😎💻</i>
 </p>
 
 <p align="center">
