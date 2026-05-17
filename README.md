@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2200&pause=700&color=00F5A0&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Niru+%F0%9F%91%8B;Computer+Science+%26+AI+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;I+debug+reality+and+call+it+engineering+%E2%9C%A8"
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=34&duration=2400&pause=900&color=000000&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Niru+%F0%9F%91%8B;Computer+Science+%26+AI+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;I+debug+reality+and+call+it+engineering+%E2%9C%A8"
     alt="Typing SVG"
   />
 </p>
@@ -29,7 +29,7 @@
 
 🎓 Computer Science & Engineering (AI & ML) student at VIT  
 🚀 Building intelligent, production-grade software with real-world impact  
-📱 Full-Stack Developer | 🤖 ML Enthusiast | 🔬 Research-Oriented Problem Solver
+📱 Full-Stack Developer | 🤖 Machine Learning Enthusiast | 🔬 Research-Oriented Problem Solver  
 
 > *"I debug reality and call it engineering ✨"*
 
@@ -74,8 +74,14 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=n-j-m06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-j-m06&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=n-j-m06&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=000000&icon_color=7F5AF0&rank_icon=github"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-j-m06&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=000000"
+  />
 </p>
 
 ---
@@ -97,7 +103,8 @@
 ---
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code that makes it look easy." 😎💻</i>
+  <i>"Talk is cheap. Show me the code." 😏💻</i><br>
+  <sub>— Linus Torvalds</sub>
 </p>
 
 <p align="center">
