@@ -76,14 +76,15 @@
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=n-j-m06&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=000000&icon_color=7F5AF0&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=n-j-m06&show_icons=true&theme=default&hide_border=true&rank_icon=github"
+    alt="Niranjan's GitHub Stats"
   />
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-j-m06&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=000000"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-j-m06&layout=compact&theme=default&hide_border=true"
+    alt="Top Languages"
   />
 </p>
-
 ---
 
 ## 🤝 Connect With Me
