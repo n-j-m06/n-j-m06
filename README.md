@@ -1,36 +1,89 @@
-# Hi, I'm Niru! 👋 🌏
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:7F5AF0&height=220&section=header&text=Niranjan%20J%20Menon&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20AI%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
+</p>
 
-### I'm a Computer Science & AI Student
->I debug reality and call it engineering ✨
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Niru+%F0%9F%91%8B;I+debug+reality+and+call+it+engineering+%E2%9C%A8;Flutter+%7C+FastAPI+%7C+Python+%7C+Machine+Learning;Building+technology+that+solves+real-world+problems." />
+</p>
 
----
-
-### 🛠️ Technical Arsenal
-
-#### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=n-j-m06&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/n-j-m06?style=for-the-badge&label=Followers" />
+</p>
 
 ---
 
-### 📂 Learning & Projects
+# 💫 Hi, I'm Niru!
 
-* **AI & Computer Vision:** Developing **ChromaSight** using **Python**, OpenCV, and TensorFlow Lite for real-time accessibility.
-* **Web Development:** Building interactive interfaces with **React** and managing server-side logic with **Node.js**.
-* **Database Management:** Architecting relational models using **SQL**, Oracle, and PL/SQL scripts.
-* **System Programming:** Utilizing **C++** for high-performance logic and foundational engineering concepts.
-* **Networking:** Implementing and analyzing protocols like CSMA/CD and Go-Back-N ARQ.
+🎓 Computer Science & Engineering (AI & ML) student at VIT.  
+🚀 Passionate about building intelligent, production-grade software with real-world impact.  
+📱 Full-stack developer with interests in Machine Learning, Computer Vision, Mobile Development, and Research.
 
----
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Niru-1509)
+> *"I debug reality and call it engineering ✨"*
 
 ---
 
-*"One optimized protocol at a time."* 🚀
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,dart,sql" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,fastapi,tensorflow,opencv" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+## 🎯 Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Computer Vision & Accessibility Technology
+- Full-Stack Web Development
+- Cross-Platform App Development
+- Backend Engineering & APIs
+- Research & Applied Mathematics
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=n-j-m06&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-j-m06&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/n-j-m06">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>One optimized protocol at a time. 🚀</b>
+</p>
