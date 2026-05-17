@@ -101,7 +101,6 @@
 
 <p align="center">
   <i>"There are two ways to write error-free programs; only the third one works!" </i><br>
-  <sub>— Linus Torvalds</sub>
 </p>
 
 <p align="center">
