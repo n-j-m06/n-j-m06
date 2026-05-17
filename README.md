@@ -1,23 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:7F5AF0&height=220&section=header&text=Niranjan%20J%20Menon&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20AI%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5A0,25:00D9F5,50:7F5AF0,75:FF4ECD,100:FF6B6B&height=280&section=header&text=Niranjan%20J%20Menon&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Computer%20Science%20%26%20AI%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Niru+%F0%9F%91%8B;I+debug+reality+and+call+it+engineering+%E2%9C%A8;Flutter+%7C+FastAPI+%7C+Python+%7C+Machine+Learning;Building+technology+that+solves+real-world+problems." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F5A0&center=true&vCenter=true&multiline=false&width=950&height=60&lines=Hi%2C+I%27m+Niru+%F0%9F%91%8B;I+debug+reality+and+call+it+engineering+%E2%9C%A8;Flutter+%7C+FastAPI+%7C+Python+%7C+Machine+Learning;Building+technology+that+creates+real-world+impact." />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=n-j-m06&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/followers/n-j-m06?style=for-the-badge&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=n-j-m06&label=Profile%20Views&style=for-the-badge&color=7F5AF0" />
+  <img src="https://img.shields.io/github/followers/n-j-m06?style=for-the-badge&label=Followers&color=00D9F5" />
+  <img src="https://img.shields.io/github/stars/n-j-m06?style=for-the-badge&label=Stars&color=00F5A0" />
 </p>
 
 ---
 
 # 💫 Hi, I'm Niru!
 
-🎓 Computer Science & Engineering (AI & ML) student at VIT.  
-🚀 Passionate about building intelligent, production-grade software with real-world impact.  
-📱 Full-stack developer with interests in Machine Learning, Computer Vision, Mobile Development, and Research.
+🎓 Computer Science & Engineering (AI & ML) student at VIT  
+🚀 Passionate about building intelligent, production-grade software with real-world impact  
+📱 Full-stack developer specializing in Flutter, FastAPI, Python, and Machine Learning  
 
 > *"I debug reality and call it engineering ✨"*
 
@@ -62,8 +63,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=n-j-m06&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=n-j-m06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-j-m06&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n-j-m06&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -83,6 +88,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 <p align="center">
   <b>One optimized protocol at a time. 🚀</b>
