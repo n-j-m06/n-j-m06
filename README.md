@@ -28,12 +28,8 @@
 
 ---
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=5000&pause=1500&color=000000&center=true&vCenter=true&width=1800&lines=%F0%9F%92%AB+Heyyy+folkss!+Njann+Niru!+🌴+Negotiation+is+in+my+DNA.+Unfortunately,+my+compiler+doesn't+speak+Malayalam+😐"
-    alt="Typing SVG"
-  />
-</p>
+💫 Heyyy folkss! Njann Niru!
+🌴 Negotiation is in my DNA. Unfortunately, my compiler doesn't speak Malayalam. 😐
 
 🎓 Computer Science & Engineering (AI & ML) student at VIT
 
