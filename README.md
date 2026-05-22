@@ -12,18 +12,18 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=34&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Niru+%F0%9F%91%8B;Computer+Science+%26+AI+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;I+debug+reality+and+call+it+engineering+%E2%9C%A8"
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=34&duration=2400&pause=900&color=000000&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Niru+%F0%9F%91%8B;Computer+Science+%26+AI+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;I+debug+reality+and+call+it+engineering+%E2%9C%A8"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=n-j-m06&label=Profile%20Views&style=for-the-badge&color=58A6FF" />
-  <img src="https://img.shields.io/github/followers/n-j-m06?style=for-the-badge&label=Followers&color=1F6FEB" />
+  <img src="https://komarev.com/ghpvc/?username=n-j-m06&label=Profile%20Views&style=for-the-badge&color=1F4E79" />
+  <img src="https://img.shields.io/github/followers/n-j-m06?style=for-the-badge&label=Followers&color=163A5F" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24,30&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=30,24,18,12,6&section=header"/>
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ---
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=30,24,18,12,6"/>
 </p>
 
 ## 🛠️ Tech Stack
@@ -87,7 +87,7 @@
 ---
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=30,24,18,12,6"/>
 </p>
 
 ## 🎯 Areas of Interest
@@ -105,7 +105,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=n-j-m06&bg_color=0D1117&color=58A6FF&line=00E5FF&point=FFFFFF&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=n-j-m06&bg_color=0D1117&color=89B4FA&line=4C6EF5&point=FFFFFF&hide_border=true"
     width="100%"
   />
 </p>
@@ -113,7 +113,7 @@
 ---
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=30,24,18,12,6"/>
 </p>
 
 ## 🏆 Achievements
@@ -141,15 +141,15 @@
 
 <p align="center">
   <a href="https://github.com/n-j-m06">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=89B4FA" />
   </a>
 
   <a href="https://www.linkedin.com/in/niranjan-j-menon/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=89B4FA" />
   </a>
 
   <a href="mailto:menonniranjanj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" />
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=89B4FA" />
   </a>
 </p>
 
@@ -164,5 +164,5 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24,30&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=30,24,18,12,6&section=footer"/>
 </p>
