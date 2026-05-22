@@ -28,7 +28,7 @@
 
 ---
 
-# 💫 Negotiation is in my DNA... Unfortunately, my compiler doesn't speak Malayalam. 😐
+# ☕ Powered by "chaya" and the belief that this code will work!
 
 🎓 Computer Science & Engineering (AI & ML) student at VIT
 
