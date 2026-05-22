@@ -28,7 +28,7 @@
 
 ---
 
-# 💫 Heyyy folkss! Njann Niru! Negotiation is in my DNA. Unfortunately, my compiler doesn't speak Malayalam. 😐
+# 💫 Negotiation is in my DNA... Unfortunately, my compiler doesn't speak Malayalam. 😐
 
 🎓 Computer Science & Engineering (AI & ML) student at VIT
 
