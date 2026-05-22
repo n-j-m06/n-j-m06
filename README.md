@@ -28,7 +28,12 @@
 
 ---
 
-# 💫 Hi, I'm Niru!
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=32&duration=3500&pause=1500&color=000000&center=true&vCenter=true&width=1400&lines=%F0%9F%92%AB+Heyyy+folkss!+Njann+Niru!;🌴+Negotiation+is+in+my+DNA.;😐+Unfortunately,+my+compiler+doesn't+speak+Malayalam."
+    alt="Typing SVG"
+  />
+</p>
 
 🎓 Computer Science & Engineering (AI & ML) student at VIT
 
