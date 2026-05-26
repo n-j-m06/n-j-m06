@@ -115,9 +115,8 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=n-j-m06&theme=algolia&no-frame=true&margin-w=15"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=n-j-m06&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=n-j-m06&theme=tokyonight" />
 </p>
 
 ---
