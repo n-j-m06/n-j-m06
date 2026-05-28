@@ -21,7 +21,7 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=n-j-m06&label=Profile%20Views&style=for-the-badge&color=1F4E79" /> 
-  <img src="https://img.shields.io/github/followers/n-j-m06?style=for-the-badge&label=Followers&color=163A5F" /> 
+  <img src="https://img.shields.io/github/followers/n-j-m06?style=for-the-badge&label=Followers&color=1E3A8A&labelColor=4b4b4b" /> 
 </p>
 
 
