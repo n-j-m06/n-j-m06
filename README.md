@@ -20,20 +20,7 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/n-j-m06">
-    <img 
-      src="https://img.shields.io/badge/Followers-1E3A8A?style=for-the-badge&logo=github&logoColor=white&labelColor=3b3b3b"
-      height="28"
-    />
-  </a>
-   <a href="https://github.com/n-j-m06">
-  <img 
-    src="https://visitor-badge.laobi.icu/badge?page_id=n-j-m06.n-j-m06&left_color=3b3b3b&right_color=1E3A8A"
-    height="28"
-  />
-  </a>
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=n-j-m06&label=Profile%20Views&style=for-the-badge&color=1F4E79" /> <img src="https://img.shields.io/github/followers/n-j-m06?style=for-the-badge&label=Followers&color=163A5F" /> </p>
 
 
 
