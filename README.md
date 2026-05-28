@@ -18,10 +18,20 @@
   />
 </p>
 
+
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=n-j-m06.n-j-m06&left_color=0f172a&right_color=2563eb" />
-  <img src="https://img.shields.io/github/followers/n-j-m06?style=for-the-badge&label=Followers&color=1E3A8A" />
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=n-j-m06.n-j-m06&left_color=3b3b3b&right_color=1E3A8A"
+    height="28"
+  />
+  
+  <img
+    src="https://img.shields.io/github/followers/n-j-m06?style=for-the-badge&label=Followers&color=1E3A8A"
+    height="28"
+  />
 </p>
+
+
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=30,24,18,12,6&section=header"/>
