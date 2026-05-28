@@ -19,17 +19,22 @@
 </p>
 
 
+
 <p align="center">
-  <img
+  <a href="https://github.com/n-j-m06">
+    <img 
+      src="https://img.shields.io/badge/Followers-1E3A8A?style=for-the-badge&logo=github&logoColor=white&labelColor=3b3b3b"
+      height="28"
+    />
+  </a>
+
+  <img 
     src="https://visitor-badge.laobi.icu/badge?page_id=n-j-m06.n-j-m06&left_color=3b3b3b&right_color=1E3A8A"
     height="28"
   />
-  
-  <img
-    src="https://img.shields.io/github/followers/n-j-m06?style=for-the-badge&label=Followers&color=1E3A8A"
-    height="28"
-  />
 </p>
+
+
 
 
 
