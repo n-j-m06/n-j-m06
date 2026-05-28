@@ -19,8 +19,6 @@
 </p>
 
 
-
-```html id="4mbb8s"
 <p align="center">
   <img
     src="https://visitor-badge.laobi.icu/badge?page_id=n-j-m06.n-j-m06&left_color=4b4b4b&right_color=1E3A8A"
@@ -32,8 +30,6 @@
     height="28"
   />
 </p>
-```
-
 
 
 
