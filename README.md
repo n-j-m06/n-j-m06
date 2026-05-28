@@ -27,11 +27,12 @@
       height="28"
     />
   </a>
-
+   <a href="https://github.com/n-j-m06">
   <img 
     src="https://visitor-badge.laobi.icu/badge?page_id=n-j-m06.n-j-m06&left_color=3b3b3b&right_color=1E3A8A"
     height="28"
   />
+  </a>
 </p>
 
 
