@@ -24,8 +24,10 @@
   <img src="https://img.shields.io/github/followers/n-j-m06?style=for-the-badge&label=Followers&color=1E3A8A&labelColor=4b4b4b" /> 
 </p>
 
-
-
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n-j-m06&theme=github_dark"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n-j-m06&theme=github_dark"/>
+</p>
 
 
 <p align="center">
@@ -98,6 +100,9 @@
 - Research & Applied Mathematics
 - System Design & Scalable Architectures
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750547-2d3d7f5d-76d2-4c1e-bc5c-2c91d3f2b9bb.gif" width="100%">
+</p>
 ---
 
 ## 📈 Contribution Activity
@@ -109,6 +114,11 @@
   />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/n-j-m06/n-j-m06/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ---
 
 ## 🏆 Achievements
@@ -119,6 +129,11 @@
   />
 </p>
 
+## ⚡ Coding Rhythm
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n-j-m06&theme=github_dark&utcOffset=5.5"/>
+</p>
 ---
 
 ## 📋 Profile Summary
