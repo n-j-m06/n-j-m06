@@ -34,7 +34,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=30,24,18,12,6&section=header"/>
 </p>
 
----
 
 # ☕ Chaya-powered. Production-ready. Slightly sleep-deprived.
 
