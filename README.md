@@ -103,6 +103,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750547-2d3d7f5d-76d2-4c1e-bc5c-2c91d3f2b9bb.gif" width="100%">
 </p>
+
 ---
 
 ## 📈 Contribution Activity
@@ -114,12 +115,17 @@
   />
 </p>
 
+---
+
+
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/n-j-m06/n-j-m06/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 ---
+
 
 ## 🏆 Achievements
 
@@ -134,6 +140,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n-j-m06&theme=github_dark&utcOffset=5.5"/>
 </p>
+
 ---
 
 ## 📋 Profile Summary
