@@ -3,7 +3,7 @@
 <!--                    HERO SECTION                       -->
 <!-- ===================================================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=01001000+01100101+01101100+01101100+01101111+World;AI+Developer;Full+Stack+Engineer;Machine+Learning+Enthusiast" />
+  <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAd/dragon-flying.gif" width="500">
 </p>
 
 <p align="center">
