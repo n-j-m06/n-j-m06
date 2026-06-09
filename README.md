@@ -126,7 +126,6 @@
 
 ---
 
-
 ## 🏆 Achievements
 
 <p align="center">
@@ -134,6 +133,8 @@
     src="https://github-profile-trophy.vercel.app/?username=n-j-m06&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" 
   />
 </p>
+
+---
 
 ## ⚡ Coding Rhythm
 
