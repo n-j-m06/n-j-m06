@@ -115,25 +115,6 @@
 
 ---
 
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/n-j-m06/n-j-m06/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=n-j-m06&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" 
-  />
-</p>
-
----
-
 ## ⚡ Coding Rhythm
 
 <p align="center">
