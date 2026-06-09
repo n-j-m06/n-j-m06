@@ -2,7 +2,7 @@
 <!-- ===================================================== -->
 <!--                    HERO SECTION                       -->
 <!-- ===================================================== -->
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=120&section=header"/>
 <p align="center">
   <img
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
@@ -17,7 +17,7 @@
     alt="Typing SVG"
   />
 </p>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer"/>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=n-j-m06&label=Profile%20Views&style=for-the-badge&color=1F4E79" /> 
