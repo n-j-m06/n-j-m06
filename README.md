@@ -52,10 +52,6 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=n-j-m06&theme=github-dark-blue&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-j-m06&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
