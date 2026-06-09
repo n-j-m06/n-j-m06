@@ -3,7 +3,7 @@
 <!--                    HERO SECTION                       -->
 <!-- ===================================================== -->
 <p align="center">
-  <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAd/dragon-flying.gif" width="500">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="700"/>
 </p>
 
 <p align="center">
